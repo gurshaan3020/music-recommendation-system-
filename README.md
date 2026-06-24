@@ -34,8 +34,7 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/your-username/emotion-based-music-recommender.git
-cd emotion-based-music-recommender
+git clone https://github.com/gurshaan3020/music-recommendation-system-.git
 
 2. Create and activate a virtual environment
 
